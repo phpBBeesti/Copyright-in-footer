@@ -1,5 +1,6 @@
 <?php
 /**
+* Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
 *
 * @package phpBB Extension - Copyright in footer
 * @copyright (c) 2015 dmzx - http://www.dmzx-web.net
@@ -33,6 +34,6 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'COPYRIGHT'					=> 'Copyright &copy;',
-	'COPYRIGHT_RESERVED'		=> 'All rights reserved.',
+	'COPYRIGHT'					=> 'Autoriõigus &copy;',
+	'COPYRIGHT_RESERVED'		=> 'Kõik õigused kaitstud.',
 ));
