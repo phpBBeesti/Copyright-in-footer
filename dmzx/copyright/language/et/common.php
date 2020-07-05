@@ -1,6 +1,6 @@
 <?php
 /**
-* Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
+* Estonian translation by phpBBeesti.ee [Exabot]
 *
 * @package phpBB Extension - Copyright in footer
 * @copyright (c) 2015 dmzx - http://www.dmzx-web.net
